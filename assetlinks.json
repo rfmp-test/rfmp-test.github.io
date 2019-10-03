@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.suncor.android.SuncorApplicationQA",
+    "sha256_cert_fingerprints":
+    ["1C:DB:FF:50:05:D3:8B:EB:62:AB:86:C7:38:E1:B4:6F:D8:4A:54:D3:8B:F0:C8:AE:61:97:08:53:38:0E:E6:0D"]
+  }
+}]

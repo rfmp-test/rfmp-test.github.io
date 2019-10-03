@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "96PN63XX58.com.suncor.dev.iossuncoreapplication",
+        "paths": [
+          "/en/personal/security-question",
+          "/fr/personnel/question-de-securite"
+        ]
+      }
+    ]
+  }
+}
